@@ -1,6 +1,6 @@
-# Superstore Sales and Profits Visualization
+# Superstore Sales, Profits, and Customers Visualization
 
-This project is a data visualization of the Superstore Sales and Profits dataset using Tableau. The dataset contains sales and profit data for a fictional superstore.
+This project is a data visualization of the Superstore Sales, Profits, and Customers  dataset using Tableau. The dataset contains sales and profit data for a fictional superstore.
 
 Using Tableau, I have created a series of interactive dashboards and charts to explore and analyze the data. Some of the questions I have attempted to answer include:
 
