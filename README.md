@@ -12,6 +12,8 @@ Using Tableau, I have created a series of interactive dashboards and charts to e
 
 > How does the performance of different regions compare?
 
+> How does the performance of different customers vary?
+
 By interacting with the dashboards, you can filter and drill down into the data to find your own insights and trends.
 
 The visualization is hosted on Tableau Public and can be accessed using the link below: https://public.tableau.com/app/profile/vipul.soni/viz/Sample_superstore_sales_productsDataViz_usingTableau/SuperstoreProfitabilityMatrixDashbboard
